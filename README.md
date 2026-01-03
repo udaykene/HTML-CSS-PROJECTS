@@ -22,14 +22,19 @@ Each folder represents a **standalone project** and can be opened directly in th
 
 > 🔗 Live demos are hosted using **GitHub Pages**
 
-| Project Folder | Description | Live Demo |
-|----------------|-------------|-----------|
-| practice | Small HTML/CSS experiments and fundamentals | — |
-| Project-1 | Basic layout practice | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project 1/ |
-| Project-2 | Flexbox-based layout | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project 2/ |
-| Project-3 | CSS Grid layout | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-3/ |
-| Project-4 | Responsive design practice | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-4/ |
-| Testing | Sandbox for experiments | — |
+| Project Folder | Live Demo |
+|----------------|-----------|
+| Project-1 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-1/ |
+| Project-2 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-2/ |
+| Project-3 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-3/ |
+| Project-4 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-4/ |
+| Project-5 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-5/ |
+| Project-6 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-6/ |
+| Project-7 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-7/ |
+| Project-8 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-8/ |
+| Project-9 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-9/ |
+| Project-10 | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-10/ |
+
 
 > ⚠️ Each project folder contains an `index.html` file for direct browser rendering.
 
