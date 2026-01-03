@@ -25,8 +25,8 @@ Each folder represents a **standalone project** and can be opened directly in th
 | Project Folder | Description | Live Demo |
 |----------------|-------------|-----------|
 | practice | Small HTML/CSS experiments and fundamentals | — |
-| Project-1 | Basic layout practice | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-1/ |
-| Project-2 | Flexbox-based layout | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-2/ |
+| Project-1 | Basic layout practice | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project 1/ |
+| Project-2 | Flexbox-based layout | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project 2/ |
 | Project-3 | CSS Grid layout | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-3/ |
 | Project-4 | Responsive design practice | 🔗 https://udaykene.github.io/HTML-CSS-PROJECTS/Project-4/ |
 | Testing | Sandbox for experiments | — |
